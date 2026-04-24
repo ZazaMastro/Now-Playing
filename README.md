@@ -4,6 +4,9 @@ A console-style music companion for Windows inside Decky Loader.
 
 Now playing reads the active Windows media session, shows album art, track metadata, and progress, and gives you compact controls built for a seamless Quick Access Menu experience. Choose your favorite music apps, keep only the shortcuts you need, and enjoy a cleaner console-like music flow with Spotify, Tidal, Apple Music, Deezer, Amazon Music, SoundCloud, or any compatible Windows media player.
 
+<img width="1892" height="1890" alt="immagine" src="https://github.com/user-attachments/assets/b543f4bf-84ff-416d-b0ab-283b61c47085" />
+
+
 ## Features
 
 - Shows the current track title, artist, album, and album artwork.
