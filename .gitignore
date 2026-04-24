@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Decky/build output
+dist/
+bin/
+.decky-package/
+*.zip
+
+# .NET build output
+MediaBridge/bin/
+MediaBridge/obj/
+
+# Logs and local caches
+*.log
+*.tmp
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
